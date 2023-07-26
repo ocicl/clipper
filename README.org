@@ -1,0 +1,10 @@
+* clipper
+
+File attachment library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Rudolph-Miller/clipper.git   |
+| commit  | b07a1be  |
+| systems | clipper |
+|---------+-------------------------------------------|
+
